@@ -1,3 +1,3 @@
-theme: jekyll-theme-architect
+theme: jekyll-theme-architect 
 title: Welcome to Ian Harris' homepage!
 description: description goes here...

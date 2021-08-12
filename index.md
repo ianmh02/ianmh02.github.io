@@ -1,6 +1,6 @@
 ## Introduction
 
-![IMG_0201](https://user-images.githubusercontent.com/88736917/129266998-11cb5c47-7421-4604-a8c8-98511567b86e.JPG)
+<img scr = "https://user-images.githubusercontent.com/88736917/129266998-11cb5c47-7421-4604-a8c8-98511567b86e.JPG" width="80">
 
 Hello, my name is Ian Harris and I will be a freshman this fall at The Ohio State University. I am an Aeronautical and Astronautcial Engineering, Astrophysics and Astronomy, and Physics Major, and Math Minor. Over the past year, I have started my adventure into the life of coding. Through my Astronomy degree I have started to learn the language of Python, and through my Engineering degree I have learned the language of MATLAB. And now, I am thrilled to be learning Swift.
 

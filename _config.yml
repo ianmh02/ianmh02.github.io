@@ -1,3 +1,7 @@
 theme: jekyll-theme-slate
 title: Ian Harris' Portfolio
 description: Swift  |  MATLAB  |  Python
+
+layout: page
+title: "Work"
+permalink: /work.md

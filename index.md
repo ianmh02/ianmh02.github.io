@@ -6,4 +6,4 @@ Hello, my name is Ian Harris and I will be a freshman this fall at The Ohio Stat
 
 Over the past summer, I have been taking The Ohio State University's Digital Flagship Coding Class that teaches OSU students an alumni how to code apps for IOS devices. After only a week and a half I have learned about Swift Playgrounds, constants vs variables, data types, operators, control flow, Xcode, functions, structures / classes, collections, optionals, and much more! With each coming day I work further in the course, the more fluent and skilled I become in the language of Swift.
 
-If you would like to read about a project of mine [here](work.md).
+If you would like to read about a project of mine, click [here](work.md).

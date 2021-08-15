@@ -3,7 +3,7 @@
 One project of mine that I enjoyed working on was the Apple Pie project. This project was a guided project from Apple's "Develop in Swift Fundamentals." The objecive of the lab was to create an iPad application where the user guessed a word. If the user chose a letter that was a part of the word, the blanks would update with the letter in the letter's correct position, and if the user guessed the letter incorrectly, an apple would fall from the apple tree, indicating that an attempt has been lost. 
 
 
-<img src="">
+<img src="![Screen Shot 2021-08-15 at 12 12 49 PM](https://user-images.githubusercontent.com/88736917/129485267-4ed38bf1-7acf-45c4-a4f2-9d78bcdfb020.jpg)">
 
 Here is the code that was used for this project.
 

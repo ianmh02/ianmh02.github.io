@@ -5,6 +5,12 @@ One project of mine that I enjoyed working on was the Apple Pie project. This pr
 
 <img src="https://user-images.githubusercontent.com/88736917/129485267-4ed38bf1-7acf-45c4-a4f2-9d78bcdfb020.jpg" width="500">
 
+<img src="https://user-images.githubusercontent.com/88736917/129485462-6bd21783-a41b-4370-95c3-655caddf948b.jpg" width="500">
+
+<img src="https://user-images.githubusercontent.com/88736917/129485498-92d13468-a301-4de6-adf8-beffa7eb5b0d.jpg" width="500">
+
+<img src="https://user-images.githubusercontent.com/88736917/129485519-d9569d9b-19a6-4d3c-af78-322f0f2847f0.jpg" width="500">
+
 Here is the code that was used for this project.
 
 ```markdown

@@ -22,7 +22,7 @@
 	padding-left: 15px
 }
 
-.container {
+.containerA {
 	width: 100%;
 	padding-right: 15px;
 	padding-left: 15px;
@@ -45,25 +45,25 @@
 }
 
 @media (min-width:576px) {
-	.container {
+	.containerA {
 		max-width: 540px
 	}
 }
 
 @media (min-width:768px) {
-	.container {
+	.containerA {
 		max-width: 720px
 	}
 }
 
 @media (min-width:992px) {
-	.container {
+	.containerA {
 		max-width: 960px
 	}
 }
 
 @media (min-width:1200px) {
-	.container {
+	.containerA {
 		max-width: 1140px
 	}
 }

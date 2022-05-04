@@ -1,5 +1,6 @@
 footer {
-	display: block
+	display: block;
+	width: 100vw;
 }
 
 .col-sm-4 {

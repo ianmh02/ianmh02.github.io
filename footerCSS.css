@@ -1,6 +1,5 @@
 footer {
 	display: block;
-	text-align: left;
 }
 
 .col-sm-4 {
@@ -50,6 +49,7 @@ footer {
 	width: 100vw;
 }
 
+/*
 @media (min-width:576px) {
 	.containerA {
 		max-width: 540px;
@@ -73,6 +73,7 @@ footer {
 		max-width: 1140px;
 	}
 }
+*/
 
 @media (min-width:576px) {
 	.col-sm-4 {

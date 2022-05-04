@@ -1,6 +1,5 @@
 footer {
 	display: block;
-	width: 100vw;
 }
 
 .col-sm-4 {
@@ -36,10 +35,10 @@ footer {
 }
 
 .row {
-	/*display: -ms-flexbox;*/
+	display: -ms-flexbox;
 	display: flex;
-	/*-ms-flex-wrap: wrap;
-	flex-wrap: wrap;*/
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap;
 	margin-right: -15px;
 	margin-left: -15px;
 }

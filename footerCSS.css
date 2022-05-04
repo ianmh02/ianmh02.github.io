@@ -1,3 +1,7 @@
+footer {
+	display: block
+}
+
 .col-sm-4 {
 	position: relative;
 	width: 100%;
